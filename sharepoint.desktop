@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=UPIA Sharepoint
+Exec=xdg-open https://fadacatecatlas.sharepoint.com/_layouts/15/sharepoint.aspx?
+Icon=/home/pablo/workspace/my-config-stuff/weblinks-to-dash/sharepoint.png

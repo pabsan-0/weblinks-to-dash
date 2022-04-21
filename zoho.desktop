@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=UPIA Zoho
+Exec=xdg-open https://projects.zoho.eu/portal/catec
+Icon=/home/pablo/workspace/my-config-stuff/weblinks-to-dash/zoho.png

@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Bitbucket
+Exec=xdg-open https://bitbucket.org/dashboard/overview
+Icon=/home/pablo/workspace/my-config-stuff/weblinks-to-dash/bitbucket.png

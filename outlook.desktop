@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=CATEC Outlook
+Exec=xdg-open https://outlook.office365.com/mail/
+Icon=/home/pablo/workspace/my-config-stuff/weblinks-to-dash/outlook.png
